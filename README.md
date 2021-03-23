@@ -1,6 +1,6 @@
 # Insight-Global-Test-
 
-**Problem 1:**
+**Problem 1: Longest Palindromic Substring**
 
 Given a string _s_, find the longest palindromic substring in _s_. You may assume that the maximum length of _s_ is 1000.
 
@@ -17,7 +17,7 @@ Write a Spring Boot micro-service that completes the following:
 You should be able to run your micro-service locally and use an API client (such as PostMan) to test your results.
 
 
-Problem 2/Solution?:
+**Problem 2/Solution?: Binary Decimal Conversion**
 
 Have the function BinaryReversal(str) take the str parameter being passed, which will be a positive integer, 
 take its binary representation (padded to the nearest N * 8 bits), reverse that string of bits, and then finally
